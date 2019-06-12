@@ -4,3 +4,5 @@
 ## 两种具体方式
 + 线性函数<br>
 ![线性归一化](./img/normal_min_max.png)
++ 零均值<br>
+![零均值归一化](./img/normal_zero.png)
